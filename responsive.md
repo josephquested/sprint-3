@@ -1,0 +1,9 @@
+RESPONSIVE REFLECTIONS
+
+I have a very love-hate relationship with Responsive Design. I love that it exists, and I believe it is absolutely vital, and I hate designing it. Over this past year I have been a student at something called the "School of Apps", which, for the most part, was a complete failure. I personally loved it, but the vast majority of other students found it far too self-directed, and weren't able to motivate themselves to really make anything of it at all. So much so, that in an entire year I was the ONLY student who produced a single iPhone application. That is, what you might call a "total disaster", given the name of the school. 
+
+I developed applications using Xcode, and while Apple really is trying to build smart tools to help with responsive design, so far they are mostly unsuccessful. While I think that responsive design is an absolute necessity, I had an awful time trying to implement it... and that's just for different sized iOS devices! I am anxious about responsive web design, because it seems like a completely daunting task to me. But, that aside, I am looking forward to practising it, and I'm sure (like everything) it gets less intimidating the more you do it. 
+
+In terms of the advantages between responsive design VS different designs for every device, it's barely even worth talking about. The advantages to building a system that adapts intelligently, as opposed to bespoke pieces of code that can only work in certain environments is just...obvious. I mean, it violates the DRY principle, for one thing. It is very likely to go out of date quickly as screen sizes change, it is a total waste of time. I understand why people THINK they should do it, because having this tailor made experience for each device feels more caring and attentive. But in the long run that is just extremely short-sighted. 
+
+-- xx jq
